@@ -1,5 +1,5 @@
 /*
-@author :Mridul Mishra
+@author :Maan Pratap Singh
 
 
 To execute:
